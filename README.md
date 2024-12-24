@@ -1,7 +1,7 @@
 # SuperDice
 This is a simple dice game.
 
-![main title](https://github.com/sunduk/SuperDice/blob/main/Documents/title.png?raw=true)
+![main title](https://github.com/sunduk/SuperDice/blob/main/Documents/SuperDice2.gif?raw=true)
 
 
 # Install
